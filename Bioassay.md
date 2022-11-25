@@ -15,34 +15,6 @@ toc-title: Table of contents
 library(drc)
 ```
 
-::: {.cell-output .cell-output-stderr}
-    Loading required package: MASS
-:::
-
-::: {.cell-output .cell-output-stderr}
-
-    'drc' has been loaded.
-:::
-
-::: {.cell-output .cell-output-stderr}
-    Please cite R and 'drc' if used for a publication,
-:::
-
-::: {.cell-output .cell-output-stderr}
-    for references type 'citation()' and 'citation('drc')'.
-:::
-
-::: {.cell-output .cell-output-stderr}
-
-    Attaching package: 'drc'
-:::
-
-::: {.cell-output .cell-output-stderr}
-    The following objects are masked from 'package:stats':
-
-        gaussian, getInitial
-:::
-:::
 
 ## Data set
 
